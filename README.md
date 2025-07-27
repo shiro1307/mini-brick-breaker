@@ -2,6 +2,8 @@
 
 This is a simple Brick Breaker game developed using Python and Pyray (Python bindings for Raylib). The project was created as a personal exercise to explore object-oriented programming (OOP) principles in the context of real-time game development.
 
+https://github.com/user-attachments/assets/725e7b80-856f-4526-8c21-eb94d0c4ed3c
+
 ## Features
 
 - Modular codebase using OOP
@@ -15,3 +17,4 @@ This is a simple Brick Breaker game developed using Python and Pyray (Python bin
 - Python 3
 - Pyray (Raylib Python bindings)
 - Raylib Audio and Graphics APIs
+
